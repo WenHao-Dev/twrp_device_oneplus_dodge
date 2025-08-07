@@ -25,9 +25,6 @@ Using Github Actions to build `twrp-16` branch may fail because of the large sou
 
 ## Features
 
-Not works:
-- [ ] Touch in fastbootd
-
 Works:
 - [X] ADB
 - [X] Display
@@ -39,6 +36,7 @@ Works:
 - [X] USB OTG
 - [X] Vibrator
 - [X] Mount /data
+- [X] Touch
 
 ## To use it:
 
